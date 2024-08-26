@@ -52,6 +52,13 @@ E crie uma nova branch
 
 
 
+## 📂 Estrutura do Repositório
+
+O repositório está organizado da seguinte forma:
+
+- **/Exercicios**: Contendo exercícios em java abordando conceitos fundamentais de Java.
+- **/SaindoDoJavaEm1Hora**: Contendo conceitos fundamentais de Java, incluindo sua natureza POO, sintaxe básica e princípios de programação orientada a objetos.
+
 
 ### Entre em contato
 * Discord Comunidade Java: https://discord.gg/sUgHffad
