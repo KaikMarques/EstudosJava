@@ -17,8 +17,6 @@ public class TipoPrimitivos {
         double idade = 22.50;
         float salario = 400.20F;
 
-        https://www.youtube.com/watch?v=EpXYPB1rv4w parei em 17:24
-
     }
 
 }
