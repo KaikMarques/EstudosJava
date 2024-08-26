@@ -1,3 +1,4 @@
+
 public class Condicionais {
     public static void main(String[] args) {
         double idade = 22.50;

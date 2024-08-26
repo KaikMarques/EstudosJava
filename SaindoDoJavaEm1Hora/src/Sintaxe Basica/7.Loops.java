@@ -1,4 +1,4 @@
-package 1.Sintaxe Basica;
+package Sintaxe Basica;
 
 public class 7.Loops {
     public static void main(String[] args) {

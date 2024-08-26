@@ -1,4 +1,4 @@
-package 1.Sintaxe Basica;
+package Sintaxe Basica;
 
 public class 8.Casting {
     // Casting é transformar o valor de um tipo para outro tipo: do tipo interiro para double

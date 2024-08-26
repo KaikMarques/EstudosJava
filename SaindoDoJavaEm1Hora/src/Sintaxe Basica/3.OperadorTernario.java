@@ -1,4 +1,4 @@
-public class OperadorTernario {
+public class 3.OperadorTernario {
     public static void main(String[] args) {
         double idade = 22.50;
         String resultado = (idade > 22.60) ? "Maior" : (idade == 22.60) ? "Igual" : "Menor";

@@ -1,4 +1,6 @@
-public class TipoPrimitivos {
+package Sintaxe Basica;
+
+public class 2.TipoPrimitivos {
     
 /*
  * Dentro do Java existe 8 tipos primitivos

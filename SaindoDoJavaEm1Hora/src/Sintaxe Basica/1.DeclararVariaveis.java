@@ -1,3 +1,4 @@
+
 public class DeclararVariaveis {
 
     public static void main(String[] args) {

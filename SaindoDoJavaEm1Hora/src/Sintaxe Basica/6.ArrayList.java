@@ -1,4 +1,4 @@
-package 1.Sintaxe Basica;
+package Sintaxe Basica;
 
 import java.util.ArrayList;
 

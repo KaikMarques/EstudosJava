@@ -1,4 +1,4 @@
-package 1.Sintaxe Basica;
+package Sintaxe Basica;
 
 public class 5.Vetor {
     public static void main(String[] args) {
