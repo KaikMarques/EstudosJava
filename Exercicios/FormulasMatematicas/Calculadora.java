@@ -5,7 +5,7 @@ import java.util.Scanner;
 /*
  * Escreva um programa que solicita ao usuário dois números e exiba a soma, subtração, multiplicação e divisão entre eles 
  */
-public class MathExerc01 {
+public class Calculadora {
     public static void main(String[] args) {
         
         // Criando um objeto do tipo Scanner
