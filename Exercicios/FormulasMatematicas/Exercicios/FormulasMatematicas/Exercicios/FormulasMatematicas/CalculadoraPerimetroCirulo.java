@@ -29,4 +29,12 @@ public class CalculadoraPerimetroCirulo {
         scanner.close();
     }
 
+
+/* Nesse programa, utilizamos a classe Scanner para obter a entrada do usuário. Solicitamos ao usuário que informe o raio do círculo, 
+    que é armazenado na variável raio. Em seguida, calculamos o perímetro do círculo utilizando a fórmula 2 * π raio, 
+    onde π é o valor da constante pi (aproximadamente 3.14159), que é  obtido através da constante Math.PI em Java.
+   Por fim, exibimos o valor do perímetro na tela utilizando  System.out.println() 
+ */
+ 
+
 }
