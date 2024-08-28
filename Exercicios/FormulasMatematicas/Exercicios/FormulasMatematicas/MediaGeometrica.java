@@ -1,3 +1,4 @@
+package Exercicios.FormulasMatematicas;
 
 import java.util.Scanner;
 
